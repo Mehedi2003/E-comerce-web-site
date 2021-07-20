@@ -1,0 +1,30 @@
+.panda-bg-info{
+    background-color: #fceae8
+}
+.cus-button{
+    color: white;
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+h5{
+    color: rgb(250, 19, 200);
+}
+.catagori1{
+    border-radius: 10px;
+    background-color: rgb(88, 108, 221);
+
+}
+.catagori2{
+    border-radius: 10px;
+    background-color: rgb(0, 238, 255);
+
+}
+.catagori3{
+    border-radius: 10px;
+    background-color: rgb(225, 0, 255);
+}
+.catagories img{
+    width: 100px;
+}
